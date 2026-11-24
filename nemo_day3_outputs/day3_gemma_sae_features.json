@@ -1,0 +1,127 @@
+{
+  "layer": 12,
+  "top_harm_features": [
+    {
+      "feature_id": 4331,
+      "mean_diff": 14.66291618347168
+    },
+    {
+      "feature_id": 5583,
+      "mean_diff": 11.196243286132812
+    },
+    {
+      "feature_id": 14752,
+      "mean_diff": 9.353631973266602
+    },
+    {
+      "feature_id": 12085,
+      "mean_diff": 6.94911003112793
+    },
+    {
+      "feature_id": 8517,
+      "mean_diff": 6.9165167808532715
+    },
+    {
+      "feature_id": 1041,
+      "mean_diff": 6.760101318359375
+    },
+    {
+      "feature_id": 6638,
+      "mean_diff": 6.668933391571045
+    },
+    {
+      "feature_id": 5637,
+      "mean_diff": 6.37184476852417
+    },
+    {
+      "feature_id": 4314,
+      "mean_diff": 5.860049247741699
+    },
+    {
+      "feature_id": 13811,
+      "mean_diff": 5.590267181396484
+    },
+    {
+      "feature_id": 14033,
+      "mean_diff": 5.29189395904541
+    },
+    {
+      "feature_id": 5082,
+      "mean_diff": 5.16945743560791
+    },
+    {
+      "feature_id": 3438,
+      "mean_diff": 4.6780009269714355
+    },
+    {
+      "feature_id": 2831,
+      "mean_diff": 4.169236660003662
+    },
+    {
+      "feature_id": 2976,
+      "mean_diff": 4.15610933303833
+    }
+  ],
+  "top_benign_features": [
+    {
+      "feature_id": 12342,
+      "mean_diff": -10.26285457611084
+    },
+    {
+      "feature_id": 3983,
+      "mean_diff": -7.763568878173828
+    },
+    {
+      "feature_id": 5780,
+      "mean_diff": -7.663417816162109
+    },
+    {
+      "feature_id": 5503,
+      "mean_diff": -7.623091697692871
+    },
+    {
+      "feature_id": 650,
+      "mean_diff": -5.790401935577393
+    },
+    {
+      "feature_id": 9989,
+      "mean_diff": -4.801335334777832
+    },
+    {
+      "feature_id": 13920,
+      "mean_diff": -4.58254337310791
+    },
+    {
+      "feature_id": 15868,
+      "mean_diff": -4.471747875213623
+    },
+    {
+      "feature_id": 6785,
+      "mean_diff": -3.6973302364349365
+    },
+    {
+      "feature_id": 9811,
+      "mean_diff": -3.646074056625366
+    },
+    {
+      "feature_id": 14690,
+      "mean_diff": -3.4220011234283447
+    },
+    {
+      "feature_id": 11288,
+      "mean_diff": -3.3908865451812744
+    },
+    {
+      "feature_id": 1835,
+      "mean_diff": -3.336550712585449
+    },
+    {
+      "feature_id": 13293,
+      "mean_diff": -3.177957534790039
+    },
+    {
+      "feature_id": 2291,
+      "mean_diff": -3.053844451904297
+    }
+  ]
+}
